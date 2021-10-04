@@ -1,5 +1,5 @@
-title: "Niklas Buschmann"
-author: "Niklas Buschmann"
+title: "William Wiley"
+author: "William Wiley"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -7,11 +7,11 @@ minimal: true
 mathjax: true
 
 navigation:
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/"}
+  - {title: Mail, icon: envelope, url: "mailto:wwiley3528@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/wwiley3528/"}
   - {title: Feed, icon: rss, url: "/feed.xml"}
 
-remote_theme: niklasbuschmann/contrast
+remote_theme: william wiley/contrast
 
 plugins:
  - jekyll-feed
