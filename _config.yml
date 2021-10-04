@@ -11,7 +11,7 @@ navigation:
   - {title: Github, icon: github, url: "https://github.com/wwiley3528/"}
   - {title: Feed, icon: rss, url: "/feed.xml"}
 
-remote_theme: william wiley/contrast
+remote_theme: niklasbuschmann/contrast
 
 plugins:
  - jekyll-feed
